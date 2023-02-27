@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/487681180403989815/ff4e4ee597e94ec781d27887871337b3/artifacts
+end_time: 1677507135059
+entry_point_name: ''
+experiment_id: '487681180403989815'
+lifecycle_stage: active
+run_id: ff4e4ee597e94ec781d27887871337b3
+run_name: placid-shrimp-336
+run_uuid: ff4e4ee597e94ec781d27887871337b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677507134999
+status: 4
+tags: []
+user_id: rishabh

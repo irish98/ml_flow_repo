@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/487681180403989815/70e4f79234604b16a68aa01d8a9b3073/artifacts
+end_time: 1677508710985
+entry_point_name: ''
+experiment_id: '487681180403989815'
+lifecycle_stage: active
+run_id: 70e4f79234604b16a68aa01d8a9b3073
+run_name: dashing-loon-211
+run_uuid: 70e4f79234604b16a68aa01d8a9b3073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677508710921
+status: 3
+tags: []
+user_id: rishabh

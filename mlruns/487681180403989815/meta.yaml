@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/487681180403989815
+creation_time: 1677507062604
+experiment_id: '487681180403989815'
+last_update_time: 1677507062604
+lifecycle_stage: active
+name: score
