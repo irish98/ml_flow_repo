@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/487681180403989815/a65641d0bbf94c6fa11cca0910c68846/artifacts
+end_time: 1677508634923
+entry_point_name: ''
+experiment_id: '487681180403989815'
+lifecycle_stage: active
+run_id: a65641d0bbf94c6fa11cca0910c68846
+run_name: abundant-bass-191
+run_uuid: a65641d0bbf94c6fa11cca0910c68846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677508634863
+status: 4
+tags: []
+user_id: rishabh
